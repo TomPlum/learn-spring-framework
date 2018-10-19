@@ -13,3 +13,9 @@ https://spring.io/guides/gs/rest-service/
 * `@Component` marks the class so that Spring automatically picks it up via `@SpringBootApplication`.
 * The `DatabaseLoader` class implements `CommandLineRunner` so that it gets run after all the beans are created and registered.
 * `@Controller` marks a class as a Spring MVC Controller.
+
+## Some Key Dependencies
+* ReactJS - Developed by Facebook.
+* RestJS - CujoJS Toolkit used to make REST calls.
+* Webpack - Toolkit used to compile JavaScript components into a single, loadable bundle.
+* Babel - Compiles code written in ES6 into ES5 to run in the browser.
