@@ -19,3 +19,10 @@ https://spring.io/guides/gs/rest-service/
 * RestJS - CujoJS Toolkit used to make REST calls.
 * Webpack - Toolkit used to compile JavaScript components into a single, loadable bundle.
 * Babel - Compiles code written in ES6 into ES5 to run in the browser.
+
+## REST Primary HTTP Methods
+* `GET` - Fetch the state of a resource without altering the system.
+* `POST` - Create a new resource without saying where.
+* `PUT` - Replace an existing resource, overwriting whatever else is already there (if anything).
+* `DELETE` - Remove and existing resource.
+* `PATCH` - Alter an existing resource partially.
